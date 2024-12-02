@@ -18,7 +18,7 @@ This repository demonstrates the integration of:
 - **FastEndpoints**: A minimalist and performant web framework for .NET.
 - **Dapper**: A high-performance micro-ORM for efficient database operations.
 
-The goal is to provide a foundational understanding of using these libraries together for creating scalable, maintainable, and fast APIs in .NET.
+The goal is to provide a foundational understanding of using these libraries together to create scalable, maintainable, and fast APIs in .NET.
 
 ---
 
@@ -51,7 +51,7 @@ The goal is to provide a foundational understanding of using these libraries tog
 
 ### Prerequisites
 - **.NET SDK**: Install the latest .NET SDK from [Microsoft](https://dotnet.microsoft.com/download).
-- **Database**: Ensure you have a SQL-based database set up and accessible for Dapper to connect.
+- **Database**: Ensure you have an SQL-based database set up and accessible for Dapper to connect.
 
 ### Setup
 1. Clone the repository:
