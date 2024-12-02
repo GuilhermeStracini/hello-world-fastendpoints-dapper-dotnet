@@ -93,10 +93,3 @@ Contributions are welcome! If you'd like to enhance this repository, feel free t
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## Acknowledgments
-
-- **FastEndpoints Team** for creating an elegant framework.
-- **Dapper Contributors** for maintaining a powerful micro-ORM.
